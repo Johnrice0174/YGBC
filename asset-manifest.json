@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YGBC/static/css/main.eae2218f.chunk.css",
-    "main.js": "/YGBC/static/js/main.3cea2dc4.chunk.js",
-    "main.js.map": "/YGBC/static/js/main.3cea2dc4.chunk.js.map",
+    "main.js": "/YGBC/static/js/main.659b470d.chunk.js",
+    "main.js.map": "/YGBC/static/js/main.659b470d.chunk.js.map",
     "runtime-main.js": "/YGBC/static/js/runtime-main.b7599997.js",
     "runtime-main.js.map": "/YGBC/static/js/runtime-main.b7599997.js.map",
     "static/css/2.fd8abb92.chunk.css": "/YGBC/static/css/2.fd8abb92.chunk.css",
     "static/js/2.fca37685.chunk.js": "/YGBC/static/js/2.fca37685.chunk.js",
     "static/js/2.fca37685.chunk.js.map": "/YGBC/static/js/2.fca37685.chunk.js.map",
     "index.html": "/YGBC/index.html",
-    "precache-manifest.07c55941b12c35c8cab59ce9dc2a659d.js": "/YGBC/precache-manifest.07c55941b12c35c8cab59ce9dc2a659d.js",
+    "precache-manifest.dc1e8430640857a98aa1d7a6ee4a8a3c.js": "/YGBC/precache-manifest.dc1e8430640857a98aa1d7a6ee4a8a3c.js",
     "service-worker.js": "/YGBC/service-worker.js",
     "static/css/2.fd8abb92.chunk.css.map": "/YGBC/static/css/2.fd8abb92.chunk.css.map",
     "static/css/main.eae2218f.chunk.css.map": "/YGBC/static/css/main.eae2218f.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.fd8abb92.chunk.css",
     "static/js/2.fca37685.chunk.js",
     "static/css/main.eae2218f.chunk.css",
-    "static/js/main.3cea2dc4.chunk.js"
+    "static/js/main.659b470d.chunk.js"
   ]
 }
